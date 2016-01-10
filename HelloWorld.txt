@@ -1,3 +1,4 @@
 System.out.print("HelloWorld");
 System.out.println(" ");
 System.out.println("Hello");
+System.out.println("Hello my dear friend");
